@@ -1,0 +1,4 @@
+早上在上分组密码的课
+下午在上中特的课
+晚上在看<Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection>这篇论文，作者的思路是显示地抑制Auto-encoder的泛化能力，
+因为AE的泛化能力过强有几率输出类似于异常的样本，这个想法比较新，19年发表在ICCV上面（20年有篇和这个比较相似的论文发表在cvpr上面，感觉像是这篇论文的升级版），还没看完，后面再接着看。
