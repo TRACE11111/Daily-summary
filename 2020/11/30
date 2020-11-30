@@ -1,0 +1,4 @@
+  早上在上分组密码的课
+  下午在上中特的课
+  晚上在看论文<Anomaly Detection for Time Series Using VAE-LSTM Hybrid Model>,主要是通过无监督的学习方法来检测时间序列中的异常，以可变自动编码器VAE作为特征提取器，然后通过
+长短期记忆神经网络模型LSTM从VAE模块推导出的特征上估计序列的长期相关性。
